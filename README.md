@@ -1,57 +1,61 @@
-<h1 align="center">Rexxy's Zone</h1>
-<p align="center"><em>Full-Stack Developer • Problem Solver • Tech Explorer</em></p>
-
----
-
-## 👋 About Me
-
-Hi! I'm **Rexxy**, a passionate developer who loves building useful, efficient, and user-friendly tech.  
-From front-end design to backend logic and a bit of hardware hacking — I enjoy making things that work and look good.
-
-- 🔧 Full-stack dev & UI enthusiast  
-- 🧠 Loves clean code and practical solutions  
-- 🌍 Based in the **Philippines (UTC+8)**  
-- 📬 Email: **rexjemar@gmail.com**
-
----
-
-## 💼 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=java&logoColor=007396" />
-  <img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Flutter-white?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Arduino-white?style=flat-square&logo=arduino&logoColor=00979D" />
-  <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=003B57" />
-</p>
-
----
-
-## 📈 GitHub Stats
+<!-- 🔥 Typing Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&width=600&lines=Hi+I'm+Rexxy;Full-Stack+Developer;Tech+Tinkerer+%7C+UI+Crafter;Building+with+Code+and+Passion" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexxyqt&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxyqt&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
+</p>
+
+<!-- 🧠 About -->
+## 👋 About Me
+
+Hi! I'm **Rexxy**, a passionate developer who builds clean and functional technology — from UIs to backend systems to hardware hacks.
+
+- 💻 Full-stack dev | Hardware tinkerer | Automation builder  
+- 🎯 Obsessed with clean code and good UX  
+- 🌍 Based in the **Philippines (UTC+08:00)**  
+- 📫 Reach me at **rexjemar@gmail.com**
+
+---
+
+<!-- 🛠 Tech Stack -->
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,cpp,java,js,html,css,arduino,mysql,sqlite&theme=dark" />
 </p>
 
 ---
 
-## 🔗 Contact
+<!-- 📊 Stats -->
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rexxyqt&show_icons=true&theme=tokyonight&hide_border=true&title_color=08F7FE&icon_color=08F7FE" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxyqt&layout=compact&theme=tokyonight&hide_border=true&title_color=08F7FE" width="48%" />
+</p>
+
+---
+
+<!-- 🌐 Contact -->
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="mailto:rexjemar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/rexxyqt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<!-- 🎉 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=08F7FE&height=120&section=footer"/>
 </p>
