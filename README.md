@@ -1,89 +1,83 @@
-<!-- 🌌 Cyberpunk Banner -->
+<!-- 🚀 Cyberpunk Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/j8wnCVT/cyberpunk-night-banner.gif" alt="Cyberpunk Banner" width="100%">
+  <img src="https://i.ibb.co/j8wnCVT/cyberpunk-night-banner.gif" width="100%" height="350px" alt="Cyberpunk Night City">
 </p>
 
-<!-- 🔥 Name Header -->
-<h1 align="center" style="font-size: 42px; color: #08F7FE;">
-  ⚡ Hi, I'm <span style="color: #FF6EC7;">Rexxy</span>
+<h1 align="center" style="font-size: 60px; color:#08F7FE;">
+  Hi, I'm <span style="color:#FF00FF;">Rexxy</span> 👾
 </h1>
-<h3 align="center" style="color: #FCEE0A;">Full-Stack Developer | Hardware Tinkerer | UI Crafter</h3>
+<h3 align="center" style="color:#F700FF;">
+  Full‑Stack Dev ⚙️ | UI Crafter 🎨 | Hardware Tinkerer 🤖
+</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=08F7FE&height=2"/>
+  <img src="https://img.shields.io/badge/📍-Philippines-08F7FE?style=flat-square" />
+  <img src="https://img.shields.io/badge/⏱-UTC%2B08%3A00-FF00FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/✉️-rexjemar@gmail.com-E63946?style=flat-square" />
 </p>
 
 ---
 
-<!-- 👾 About Me -->
-## 👾 About Me
+## 🧠 About Me
 
-- 🔥 I’m a passionate builder of **functional, beautiful, and useful tech**
-- 🧠 Skilled in **front-end**, **back-end**, and **embedded hardware systems**
-- 🌏 Based in **Philippines (UTC+08:00)**
-- 📫 Reach me at **rexjemar@gmail.com**
+💬 I’m **Rexxy**, a dev blending clean **code**, **circuit hacks**, and **cyberpunk flair**:
+
+- 🌌 Building apps, UIs & Arduino-powered automation  
+- 🎯 Designing with clarity, performance & neon aesthetics  
+- 🌍 From the Philippines, coding in UTC+08:00  
+- 📬 Reach out: rexjemar@gmail.com
 
 ---
 
-<!-- 🛠 Tech Stack -->
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
-  <br><b style="color: #08F7FE;">C</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+  <br/>
+  <b style="color:#00FFD5;">C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python</b>
 </p>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <br><b style="color: #08F7FE;">C++</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  <br><b style="color: #08F7FE;">Java</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <br><b style="color: #08F7FE;">Python</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" title="Dart (Flutter)"/>
-  <br><b style="color: #08F7FE;">Dart (Flutter)</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino"/>
-  <br><b style="color: #08F7FE;">Arduino</b>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <br><b style="color: #08F7FE;">MySQL</b>
-</p>
-<p align="center">
-  <img src="https://raylibtech.itch.io/raylib/devlog/185152/using-raylib-externally" width="50" title="Raylib"/>
-  <br><b style="color: #08F7FE;">Raylib</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Raylib_logo.png" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48"/>
+  <br/>
+  <b style="color:#00FFD5;">MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SQLite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arduino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raylib&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flutter</b>
 </p>
 
 ---
 
-<!-- 📈 Stats -->
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexxyqt&show_icons=true&theme=tokyonight&hide_border=true&title_color=08F7FE&icon_color=FF6EC7" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxyqt&layout=compact&theme=tokyonight&hide_border=true&title_color=08F7FE" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rexxyqt&show_icons=true&theme=radical&hide_border=true&icon_color=FF00FF&title_color=FF00FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxyqt&layout=compact&theme=radical&hide_border=true&title_color=FF00FF" width="48%" />
 </p>
 
 ---
 
-<!-- 🌐 Contact -->
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:rexjemar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/rexxyqt">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://facebook.com/yourprofile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=00FFD5&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+—+Stay+neon.;Keep+coding+like+it’s+2099...👾" />
 </p>
