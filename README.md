@@ -9,7 +9,7 @@
 
 <!-- 🟠 STABLE NAME W/ EMOJI -->
 <h1 align="center">
-  ⚡ <span style="color:#440078; font-size: 48px; font-weight: bold;">Rex Jemar Latayada</span> ⚡
+  ⚡ <span style="color:#440078; font-size: 52px; font-weight: bold;">Rex Jemar Latayada</span> ⚡
 </h1>
 
 <!-- 🔵 ANIMATED SUBHEADINGS -->
