@@ -4,12 +4,25 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=F702D4&center=true&vCenter=true&width=600&lines=Hi%2C+⚡I'm+Rex+Jemar+Latayada!⚡;Hardware+%7C+Mobile+Apps+%7C+Systems+Dev;" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=F702D4&center=true&vCenter=true&width=700&lines=⚡+Hi%2C+I'm+Rex+Jemar+Latayada!+⚡;Hardware+%7C+Mobile+Apps+%7C+Systems+Dev+%7C+Arduino+Wizard;Welcome+to+my+Cyberpunk+Zone!+🚀" alt="Typing SVG">
 </h1>
 
-<p align="center">
-  <i>🚀 A passionate BSIT student from <b>Technological University of the Philippines</b>, blending <b>Arduino-based hardware</b>, <b>mobile app development</b>, and <b>system design</b> to create futuristic, real-world solutions. Inspired by the aesthetics and logic of cyberpunk tech.</i>
-</p>
+---
+
+## 🌌 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="120" />
+
+  <p>
+    <strong>BSIT Student | Full Stack Futurist | Cyberpunk Enthusiast</strong>  
+    <br><br>
+    🔧 I build things from scratch — from <b>hardware-based smart systems</b> using Arduino and ESP32  
+    🛠 To <b>Flutter-powered mobile apps</b> with real-time interactions  
+    🌐 I love integrating <b>machine logic, sensors, and software</b> into seamless systems  
+    <br><br>
+    🎯 Mission: Bring future-tech into today's reality.
+  </p>
+</div>
 
 ---
 
@@ -39,6 +52,14 @@
 
 ---
 
+## 🧠 Quote Generator
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Design.+Code.+Debug.+Repeat.;I+build+systems+that+feel+alive.;Cyberpunk+tech+is+the+future." alt="Typing Inspiration" />
 </h3>
+
+---
+
+## 🩻 Bonus Visual
+<p align="center">
+  <img src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" width="350" alt="Cyberpunk Coding" />
+</p>
