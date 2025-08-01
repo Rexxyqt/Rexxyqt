@@ -1,71 +1,80 @@
-<!-- Cyberpunk Banner -->
+<!-- 🟣 CYBERPUNK PROFILE BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co/j8wnCVT/cyberpunk-night-banner.gif" alt="Cyberpunk Banner" width="100%">
+  <img src="https://i.ibb.co/gM7nKYs/cyberpunk-tech-header.gif" width="100%" alt="Cyberpunk Banner">
 </p>
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FFEF9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rex+Jemar+B.+Latayada;" alt="Typing SVG" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=F702D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rex+Jemar+Latayada!;Hardware+%7C+Mobile+Apps+%7C+Systems+Dev;Cyberpunk-inspired+Developer" alt="Typing SVG">
+</h1>
 
 <p align="center">
-  <i>A passionate <b>BSIT student</b> from the <b>Technological University of the Philippines</b> who builds cyber-inspired tech—from <b>Arduino-based hardware</b> to <b>mobile apps</b> and <b>system solutions</b>. I love fusing electronics and software into real-world solutions.</i>
+  <i>🚀 A passionate BSIT student from <b>Technological University of the Philippines</b>, blending <b>Arduino-based hardware</b>, <b>mobile app development</b>, and <b>system design</b> to create futuristic, real-world solutions. Inspired by the aesthetics and logic of cyberpunk tech.</i>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,dart,html,css,js,mysql,qt,opencv,arduino,figma&theme=dark" />
 </p>
 
 ---
 
-<h2 align="center">🚧 Projects in Motion</h2>
+## 🔮 Projects in Motion
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-repo-name-1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-repo-name-2&theme=tokyonight" />
-</p>
-<!-- Replace "your-repo-name-1" and "your-repo-name-2" with actual repo names -->
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rexxyqt&show_icons=true&theme=tokyonight&border_radius=10" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexxyqt&theme=tokyonight&border_radius=10" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexxyqt&layout=compact&theme=tokyonight&border_radius=10" width="40%" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rexxyqt&theme=matrix&no-bg=true&margin-w=15" />
-</p>
-
----
-
-<h2 align="center">📬 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.facebook.com/Rex Jemar Latayada" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://github.com/Rexxyqt/your-arduino-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-arduino-project&theme=tokyonight&border_color=F702D4&title_color=F702D4&icon_color=F702D4" />
   </a>
-  <a href="https://www.instagram.com/Rexxyqt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://github.com/Rexxyqt/your-mobile-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-mobile-app&theme=tokyonight&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF" />
   </a>
+
+</p>
+
+> 💡 *You can showcase more repos by duplicating and replacing the repo names.*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rexxyqt&show_icons=true&theme=tokyonight&icon_color=F702D4&title_color=F702D4" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexxyqt&theme=tokyonight&fire=F702D4&ring=00E5FF" width="45%" />
 </p>
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FFEF9&center=true&vCenter=true&width=700&lines=Turning+ideas+into+smart+systems.;Hardware+%2B+Software+%3D+Power.;Inspired+by+future-tech+and+cyber+aesthetics." alt="Typing Inspiration" />
-</h3>
-
----
-
-<h2 align="center">📈 Contributions</h2>
+## 🧠 Contribution Activity
 <p align="center">
   <a href="https://github.com/Rexxyqt">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rexxyqt&theme=react-dark&bg_color=1A1B27&color=0FFEF9&line=0FFEF9&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rexxyqt&theme=react-dark&color=F702D4&line=00E5FF&point=ffffff&bg_color=151515" alt="Contribution Graph" />
   </a>
 </p>
+
+---
+
+## 🧿 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rexxyqt&theme=darkhub&margin-w=10&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+</p>
+
+---
+
+## 🤖 Connect with Me
+<p align="center">
+  <a href="https://www.facebook.com/Rex Jemar Latayada" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/Rexxyqt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👾 Final Words
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Design.+Code.+Debug.+Repeat.;I+build+systems+that+feel+alive.;Cyberpunk+tech+is+the+future." alt="Typing Inspiration" />
+</h3>
