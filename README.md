@@ -1,22 +1,27 @@
-<!-- 🟣 CYBERPUNK PROFILE BANNER -->
+<!-- 🟣 CYBERPUNK PROFILE BANNER (animated neon GIF) -->
 <p align="center">
-  <img src="https://i.ibb.co/gM7nKYs/cyberpunk-tech-header.gif" width="100%" alt="Cyberpunk Banner">
+  <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
 
+<!-- 🟠 Animated Gradient Name -->
 <h1 align="center">
-  ⚡ Hi, I'm <span style="color:#F702D4;">Rex Jemar Latayada</span> ⚡  
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hardware+%F0%9F%9A%80;Mobile+Apps+%F0%9F%93%B1;System+Dev+%F0%9F%92%BB;Cyberpunk+Code+Crafter+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=4000&pause=800&color=F702D4&center=true&vCenter=true&width=435&lines=Rex+Jemar+Latayada" alt="Animated Gradient Name" />
 </h1>
+
+<!-- 🔵 Typing Tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=1000&color=00F0FF&center=true&width=700&lines=Hardware+Developer+%F0%9F%9A%80;Mobile+App+Builder+%F0%9F%93%B1;System+Maker+%F0%9F%92%BB;Cyberpunk+Code+Crafter+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Cyberpunk Roles" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 I'm a BSIT student from **Technological University of the Philippines**, deeply passionate about tech.  
-💡 My forte lies in **Arduino hardware development**, **mobile app building**, and **system design**.  
-🛠️ I create real-world tech solutions that blend electronics with futuristic software — always inspired by **cyberpunk** aesthetics.  
-🔭 Currently working on smart systems that integrate sensors, logic, and mobile control.
+🎓 I’m currently pursuing a **Bachelor of Science in Information Technology (BSIT)**  
+🏫 **Technological University of the Philippines**  
+🛠️ I specialize in **Arduino hardware development**, **mobile app creation**, and **system design**  
+💡 I’m passionate about building intelligent, futuristic tech with a touch of cyberpunk  
+🔍 Always exploring, learning, and improving my craft  
 
 ---
 
@@ -47,5 +52,5 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Design.+Code.+Debug.+Repeat.;I+build+systems+that+feel+alive.;Cyberpunk+tech+is+the+future." alt="Typing Inspiration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Design.+Code.+Debug.+Repeat.;I+build+systems+that+feel+alive.;Cyberpunk+tech+is+the+future." alt="Typing Tagline" />
 </h3>
