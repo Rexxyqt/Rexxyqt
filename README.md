@@ -4,25 +4,19 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=F702D4&center=true&vCenter=true&width=700&lines=⚡+Hi%2C+I'm+Rex+Jemar+Latayada!+⚡;Hardware+%7C+Mobile+Apps+%7C+Systems+Dev+%7C+Arduino+Wizard;Welcome+to+my+Cyberpunk+Zone!+🚀" alt="Typing SVG">
+  ⚡ Hi, I'm <span style="color:#F702D4;">Rex Jemar Latayada</span> ⚡  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=Hardware+%F0%9F%9A%80;Mobile+Apps+%F0%9F%93%B1;System+Dev+%F0%9F%92%BB;Cyberpunk+Code+Crafter+%F0%9F%92%BB" alt="Typing SVG">
 </h1>
 
 ---
 
-## 🌌 About Me
-<div align="center">
-  <img src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" width="120" />
+## 👨‍💻 About Me
 
-  <p>
-    <strong>BSIT Student | Full Stack Futurist | Cyberpunk Enthusiast</strong>  
-    <br><br>
-    🔧 I build things from scratch — from <b>hardware-based smart systems</b> using Arduino and ESP32  
-    🛠 To <b>Flutter-powered mobile apps</b> with real-time interactions  
-    🌐 I love integrating <b>machine logic, sensors, and software</b> into seamless systems  
-    <br><br>
-    🎯 Mission: Bring future-tech into today's reality.
-  </p>
-</div>
+🎓 I'm a BSIT student from **Technological University of the Philippines**, deeply passionate about tech.  
+💡 My forte lies in **Arduino hardware development**, **mobile app building**, and **system design**.  
+🛠️ I create real-world tech solutions that blend electronics with futuristic software — always inspired by **cyberpunk** aesthetics.  
+🔭 Currently working on smart systems that integrate sensors, logic, and mobile control.
 
 ---
 
@@ -52,14 +46,6 @@
 
 ---
 
-## 🧠 Quote Generator
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Design.+Code.+Debug.+Repeat.;I+build+systems+that+feel+alive.;Cyberpunk+tech+is+the+future." alt="Typing Inspiration" />
 </h3>
-
----
-
-## 🩻 Bonus Visual
-<p align="center">
-  <img src="https://media.giphy.com/media/XUFPGrX5Zis6Y/giphy.gif" width="350" alt="Cyberpunk Coding" />
-</p>
