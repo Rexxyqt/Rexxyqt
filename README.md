@@ -1,11 +1,11 @@
-<!-- 🟣 CYBERPUNK PROFILE BANNER (animated neon GIF) -->
+<!-- 🟣 CYBERPUNK PROFILE BANNER -->
 <p align="center">
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
 
-<!-- 🟠 Animated Gradient Name -->
+<!-- 🟠 Bigger Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=4000&pause=800&color=F702D4&center=true&vCenter=true&width=435&lines=Rex+Jemar+Latayada" alt="Animated Gradient Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=48&duration=4000&pause=800&color=F702D4&center=true&vCenter=true&width=800&lines=Rex+Jemar+Latayada" alt="Rex Jemar Latayada" />
 </h1>
 
 <!-- 🔵 Typing Tagline -->
