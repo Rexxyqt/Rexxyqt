@@ -3,14 +3,14 @@
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
 
-<!-- 🟠 STABLE NAME (Non-animated) -->
+<!-- 🔮 ANIMATED NAME IN VIOLET -->
 <h1 align="center">
-  ⚡ <span style="color:#9A00FF; font-size: 52px; font-weight: bold;">Rex Jemar Latayada</span> ⚡
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=4000&pause=800&color=A020F0&center=true&vCenter=true&width=800&lines=Rex+Jemar+Latayada" alt="Rex Jemar Latayada" />
 </h1>
 
-<!-- 🔵 CYBERPUNK ROLE TYPING -->
+<!-- 🔵 ANIMATED SUBHEADINGS -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1300&color=F702D4&center=true&vCenter=true&width=800&lines=Hardware+Developer;Mobile+App+Builder;System+Designer;BSIT+Student+%7C+TUP+Manila;Future-ready+Cyberpunk+Tech+Enthusiast" alt="Cyberpunk Roles">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00FFF7&center=true&vCenter=true&width=800&lines=Hardware+Developer;Mobile+App+Builder;System+Designer;BSIT+Student+%7C+TUP+Manila;Future-ready+Cyberpunk+Tech+Enthusiast" alt="Animated Roles">
 </p>
 
 ---
