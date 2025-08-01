@@ -1,34 +1,48 @@
-<!-- 🔥 Typing Banner -->
+<!-- 🔥 Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&width=600&lines=Hi+I'm+Rexxy;Full-Stack+Developer;Tech+Tinkerer+%7C+UI+Crafter;Building+with+Code+and+Passion" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=08F7FE&center=true&vCenter=true&width=750&lines=Hey+I'm+Rexxy!;Full-Stack+Developer+%7C+UI+Tinkerer;Code.+Craft.+Create."/>
 </h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2"/>
 </p>
 
-<!-- 🧠 About -->
-## 👋 About Me
+<!-- 👨‍💻 About Me -->
+## 👨‍💻 About Me
 
-Hi! I'm **Rexxy**, a passionate developer who builds clean and functional technology — from UIs to backend systems to hardware hacks.
+Hi! I'm **Rexxy**, a developer passionate about creating beautiful and functional tech — from front-end interfaces to embedded systems.
 
-- 💻 Full-stack dev | Hardware tinkerer | Automation builder  
-- 🎯 Obsessed with clean code and good UX  
-- 🌍 Based in the **Philippines (UTC+08:00)**  
+- 💻 Full-Stack Dev · Hardware Hacker · UI/UX Enthusiast  
+- 🛠️ Building with **clean code**, **solid architecture**, and **user-first design**  
+- 🌍 Based in **Philippines (UTC+08:00)**  
 - 📫 Reach me at **rexjemar@gmail.com**
 
 ---
 
 <!-- 🛠 Tech Stack -->
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
+### 🧠 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,cpp,java,js,html,css,arduino,mysql,sqlite&theme=dark" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logoColor=white&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMzAgMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTggMTJoNnY0aC02di00bTggMEg5djRoNXYtNG0yLTIuNzVIMTRWMTNoMmw1LTVoLTVWNy43NXoiLz48L3N2Zz4=" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ---
 
-<!-- 📊 Stats -->
+<!-- 📊 GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -38,7 +52,7 @@ Hi! I'm **Rexxy**, a passionate developer who builds clean and functional techno
 
 ---
 
-<!-- 🌐 Contact -->
+<!-- 🌐 Connect with Me -->
 ## 🌐 Connect with Me
 
 <p align="center">
