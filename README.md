@@ -6,7 +6,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FFEF9&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rex+Jemar+B.+Latayada;" alt="Typing SVG" /></h1>
 
 <p align="center">
-  <i>A passionate <b>BSIT student</b> from the <b>Technological University of the Philippines</b> who builds cyber-inspired tech—from <b>Arduino-based hardware</b> to <b>mobile apps</b> and system solutions. I'm on a mission to fuse hardware and software into intelligent, futuristic systems.</i>
+  <i>A passionate <b>BSIT student</b> from the <b>Technological University of the Philippines</b> who builds cyber-inspired tech—from <b>Arduino-based hardware</b> to <b>mobile apps</b> and <b>system solutions</b>. I love fusing electronics and software into real-world solutions.</i>
 </p>
 
 ---
@@ -18,12 +18,12 @@
 
 ---
 
-<h2 align="center">🚀 Projects in Motion</h2>
+<h2 align="center">🚧 Projects in Motion</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="Arduino" />
-  <img src="https://media.giphy.com/media/3ohhwmQ2b64G4jPIlC/giphy.gif" width="280" alt="Mobile App" />
-  <img src="https://media.giphy.com/media/l3q2XB76CaWPzvD0c/giphy.gif" width="280" alt="System Dev" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-repo-name-1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rexxyqt&repo=your-repo-name-2&theme=tokyonight" />
 </p>
+<!-- Replace "your-repo-name-1" and "your-repo-name-2" with actual repo names -->
 
 ---
 
@@ -63,7 +63,9 @@
 
 ---
 
-<!-- Footer -->
+<h2 align="center">📈 Contributions</h2>
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="https://github.com/Rexxyqt">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Rexxyqt&theme=react-dark&bg_color=1A1B27&color=0FFEF9&line=0FFEF9&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  </a>
 </p>
