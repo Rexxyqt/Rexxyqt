@@ -32,11 +32,6 @@
 
 ---
 
-## 🧿 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rexxyqt&theme=darkhub&margin-w=10&no-frame=true&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
-</p>
-
 ---
 
 ## 🤖 Connect with Me
