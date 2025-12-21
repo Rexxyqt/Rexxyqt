@@ -5,7 +5,7 @@
 
 <!-- 🔮 ANIMATED NAME IN VIOLET -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=4000&pause=800&color=A020F0&center=true&vCenter=true&width=800&lines=Rex+Jemar+Latayada" alt="Rex Jemar Latayada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=4000&pause=800&color=A020F0&center=true&vCenter=true&width=800&lines=REX+JEMAR+LATAYADA" alt="REX JEMAR LATAYADA" />
 </h1>
 
 <!-- 🔵 ANIMATED SUBHEADINGS -->
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT ME
 
 🎓 Pursuing a **Bachelor of Science in Information Technology (BSIT)**  
 🏫 **Technological University of the Philippines – Manila**  
@@ -25,16 +25,12 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,dart,html,css,js,mysql,qt,opencv,arduino,figma&theme=dark" />
 </p>
 
----
-
----
-
-## 🤖 Connect with Me
+## 🤖 CONNECT WITH ME
 <p align="center">
   <a href="https://www.facebook.com/Rex Jemar Latayada" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-440078?style=for-the-badge&logo=facebook&logoColor=white" />
