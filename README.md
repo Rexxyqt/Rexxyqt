@@ -20,11 +20,9 @@
 🎓 Pursuing a **Bachelor of Science in Information Technology (BSIT)**  
 🏫 **Technological University of the Philippines – Manila**  
 ⚙️ Skilled in **Arduino hardware**, **mobile app development**, and **system design**  
-🌌 Tech with a cyberpunk touch – smart, bold, and futuristic  
 🧠 Always learning. Always building.
 
 ---
-
 ## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,dart,html,css,js,mysql,qt,opencv,arduino,figma&theme=dark" />
@@ -43,5 +41,5 @@
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A00FF&center=true&vCenter=true&width=800&lines=Design.+Code.+Debug.+Repeat.;Cyberpunk+tech+is+the+future.;Build+what+others+only+imagine." alt="Typing Inspiration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A00FF&center=true&vCenter=true&width=800&lines=Design.+Code.+Debug.+Repeat.;Build+what+others+only+imagine." alt="Typing Inspiration" />
 </h3>
