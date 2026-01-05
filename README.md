@@ -1,14 +1,11 @@
-<!-- 🟣 CYBERPUNK PROFILE BANNER -->
 <p align="center">
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
 
-<!-- 🔮 ANIMATED NAME IN VIOLET -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=48&duration=4000&pause=800&color=A020F0&center=true&vCenter=true&width=800&lines=REX+JEMAR+LATAYADA" alt="REX JEMAR LATAYADA" />
 </h1>
 
-<!-- 🔵 ANIMATED SUBHEADINGS -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00FFF7&center=true&vCenter=true&width=800&lines=Hardware+Developer;Mobile+App+Builder;System+Designer;BSIT+Student+%7C+TUP+Manila;" alt="Animated Roles">
 </p>
@@ -25,7 +22,7 @@
 ---
 ## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma, netbeans,vscode,codeblocks,pycharm,&theme=dark" />
 </p>
 
 ## 🤖 CONNECT WITH ME
