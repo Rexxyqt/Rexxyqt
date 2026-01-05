@@ -22,7 +22,7 @@
 
 🎓 Pursuing a **Bachelor of Science in Information Technology (BSIT)**  
 🏫 **Technological University of the Philippines – Manila**  
-⚙️ Skilled in **Arduino hardware**, **mobile app development**, and **system design**  
+⚙️ Skilled in **Microcontrollers**, **mobile and desktop app development**, and **system design**  
 🧠 Always learning. Always building.
 
 ---
