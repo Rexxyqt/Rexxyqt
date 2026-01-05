@@ -22,7 +22,7 @@
 ---
 ## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma,netbeans,vscode,codeblocks,pycharm,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma,netbeans,visual studio,pycharm,&theme=dark" />
 </p>
 
 ## 🤖 CONNECT WITH ME
