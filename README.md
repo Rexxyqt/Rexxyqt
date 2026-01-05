@@ -25,7 +25,7 @@
 ---
 ## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flutter,dart,html,css,js,mysql,qt,opencv,arduino,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma&theme=dark" />
 </p>
 
 ## 🤖 CONNECT WITH ME
