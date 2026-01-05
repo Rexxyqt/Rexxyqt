@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/cFMPxqD/neon-cyberpunk-header.gif" width="100%" alt="Cyberpunk Banner" />
 </p>
 
-```text
+<pre style="color:#A020F0; text-align:center; font-weight:bold;">
 ██████╗ ███████╗██╗  ██╗         ██╗███████╗███╗   ███╗ █████╗ ██████╗     ██╗      █████╗ ████████╗ █████╗ ██╗   ██╗ █████╗ ██████╗  █████╗ 
 ██╔══██╗██╔════╝╚██╗██╔╝         ██║██╔════╝████╗ ████║██╔══██╗██╔══██╗    ██║     ██╔══██╗╚══██╔══╝██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗██╔══██╗
 ██████╔╝█████╗   ╚███╔╝          ██║█████╗  ██╔████╔██║███████║██████╔╝    ██║     ███████║   ██║   ███████║ ╚████╔╝ ███████║██║  ██║███████║
@@ -10,7 +10,7 @@
 ██║  ██║███████╗██╔╝ ██╗    ╚█████╔╝███████╗██║ ╚═╝ ██║██║  ██║██║  ██║    ███████╗██║  ██║   ██║   ██║  ██║   ██║   ██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     ╚════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
                                                                                                                                              
-```
+</pre>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1200&color=00FFF7&center=true&vCenter=true&width=800&lines=Hardware+Developer;Mobile+App+Builder;System+Designer;BSIT+Student+%7C+TUP+Manila;" alt="Animated Roles">
