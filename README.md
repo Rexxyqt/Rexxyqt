@@ -9,7 +9,6 @@
 ██╔══██╗██╔══╝   ██╔██╗     ██   ██║██╔══╝  ██║╚██╔╝██║██╔══██║██╔══██╗    ██║     ██╔══██║   ██║   ██╔══██║  ╚██╔╝  ██╔══██║██║  ██║██╔══██║
 ██║  ██║███████╗██╔╝ ██╗    ╚█████╔╝███████╗██║ ╚═╝ ██║██║  ██║██║  ██║    ███████╗██║  ██║   ██║   ██║  ██║   ██║   ██║  ██║██████╔╝██║  ██║
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     ╚════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
-                                                                                                                                             
 </pre>
 
 <p align="center">
@@ -26,10 +25,13 @@
 🧠 Always learning. Always building.
 
 ---
+
 ## ⚙️ TECH STACKS AND TOOLS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,sqlite,qt,opencv,arduino,figma,vscode,pycharm,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,git,mysql,postgres,sqlite,nodejs,express,qt,opencv,arduino,figma,vscode,pycharm,&theme=dark" />
 </p>
+
+---
 
 ## 🤖 CONNECT WITH ME
 <p align="center">
